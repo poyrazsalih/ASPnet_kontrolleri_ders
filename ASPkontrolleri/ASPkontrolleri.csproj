@@ -67,9 +67,17 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="buttonKullanimi.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="buttonKullanimi.aspx.cs">
+      <DependentUpon>buttonKullanimi.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="buttonKullanimi.aspx.designer.cs">
+      <DependentUpon>buttonKullanimi.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
