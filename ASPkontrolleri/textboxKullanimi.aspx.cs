@@ -7,16 +7,16 @@ using System.Web.UI.WebControls;
 
 namespace ASPkontrolleri
 {
-    public partial class buttonKullanimi : System.Web.UI.Page
+    public partial class textboxKullanimi : System.Web.UI.Page
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-            this.Title = "Ben Sayfa Açılmadan Önce Çalışırım";
+
         }
 
-        protected void buttonDegistir_Click(object sender, EventArgs e)
+        protected void btn_titleDegistir_Click(object sender, EventArgs e)
         {
-            this.Title = "Buton tıklanınca değiştirildim";
+            this.Title = tb_metin.Text;
         }
     }
 }

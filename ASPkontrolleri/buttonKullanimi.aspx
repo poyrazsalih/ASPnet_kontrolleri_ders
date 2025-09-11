@@ -4,7 +4,19 @@
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
-    <title></title>
+    <title>Button Kullanımı</title>
+    <style>
+        .yakisikliButton{
+            background-color:darkred;
+            color:antiquewhite;
+            padding:10px 30px;
+            font-weight:900;
+            font-size:15pt;
+            cursor:pointer;
+            border:3px solid antiquewhite;
+            border-radius:10px
+        }
+    </style>
 </head>
 <body>
     <!--asp.net kontrolleriminizin çalışabilmesi için form etiketinin içerisinde olması gerekir.-->
@@ -12,7 +24,11 @@
         <div>
             Her asp.net kontrolü ID'ye sahip olmak zorundadır. <br />
             Her asp.net kontrolu runat attribute'una sahip olmak zorundadır. <br />
-            <asp:Button ID="buttonTikla" Text="Tıkla" runat="server" />
+            <asp:Button ID="buttonTikla" Text="Tıkla" runat="server" CssClass="yakisikliButton" />
+            <br />
+            <asp:Button ID="buttonDegistir" Text="Title Değiştir" runat="server" CssClass="yakisikliButton" OnClick="buttonDegistir_Click" />
+            <br />
+            <asp:LinkButton ID="lbtn_tikla" Text="Link Görünümlü Button" runat="server" > </asp:LinkButton>
         </div>
     </form>
 </body>
