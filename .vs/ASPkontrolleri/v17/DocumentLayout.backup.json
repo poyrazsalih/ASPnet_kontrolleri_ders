@@ -3,20 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\przsl\\OneDrive\\Documents\\GitHub\\ASPnet_kontrolleri_ders\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9BA7B1EE-43E7-4C58-A7C5-C8994FA6A08A}|ASPkontrolleri\\ASPkontrolleri.csproj|c:\\users\\przsl\\onedrive\\documents\\github\\aspnet_kontrolleri_ders\\aspkontrolleri\\cokbasithesapmakinesi.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{9BA7B1EE-43E7-4C58-A7C5-C8994FA6A08A}|ASPkontrolleri\\ASPkontrolleri.csproj|solutionrelative:aspkontrolleri\\cokbasithesapmakinesi.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{9BA7B1EE-43E7-4C58-A7C5-C8994FA6A08A}|ASPkontrolleri\\ASPkontrolleri.csproj|c:\\users\\przsl\\onedrive\\documents\\github\\aspnet_kontrolleri_ders\\aspkontrolleri\\basitkullanicigiris.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{9BA7B1EE-43E7-4C58-A7C5-C8994FA6A08A}|ASPkontrolleri\\ASPkontrolleri.csproj|solutionrelative:aspkontrolleri\\basitkullanicigiris.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9BA7B1EE-43E7-4C58-A7C5-C8994FA6A08A}|ASPkontrolleri\\ASPkontrolleri.csproj|C:\\Users\\przsl\\OneDrive\\Documents\\GitHub\\ASPnet_kontrolleri_ders\\aspkontrolleri\\cokbasithesapmakinesi.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9BA7B1EE-43E7-4C58-A7C5-C8994FA6A08A}|ASPkontrolleri\\ASPkontrolleri.csproj|solutionrelative:aspkontrolleri\\cokbasithesapmakinesi.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9BA7B1EE-43E7-4C58-A7C5-C8994FA6A08A}|ASPkontrolleri\\ASPkontrolleri.csproj|C:\\Users\\przsl\\OneDrive\\Documents\\GitHub\\ASPnet_kontrolleri_ders\\aspkontrolleri\\textboxkullanimi.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{9BA7B1EE-43E7-4C58-A7C5-C8994FA6A08A}|ASPkontrolleri\\ASPkontrolleri.csproj|solutionrelative:aspkontrolleri\\textboxkullanimi.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9BA7B1EE-43E7-4C58-A7C5-C8994FA6A08A}|ASPkontrolleri\\ASPkontrolleri.csproj|C:\\Users\\przsl\\OneDrive\\Documents\\GitHub\\ASPnet_kontrolleri_ders\\aspkontrolleri\\textboxkullanimi.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9BA7B1EE-43E7-4C58-A7C5-C8994FA6A08A}|ASPkontrolleri\\ASPkontrolleri.csproj|solutionrelative:aspkontrolleri\\textboxkullanimi.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9BA7B1EE-43E7-4C58-A7C5-C8994FA6A08A}|ASPkontrolleri\\ASPkontrolleri.csproj|c:\\users\\przsl\\onedrive\\documents\\github\\aspnet_kontrolleri_ders\\aspkontrolleri\\basitkullanicigiris.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BA7B1EE-43E7-4C58-A7C5-C8994FA6A08A}|ASPkontrolleri\\ASPkontrolleri.csproj|solutionrelative:aspkontrolleri\\basitkullanicigiris.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,52 +23,28 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "COKbasitHesapMakinesi.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\przsl\\OneDrive\\Documents\\GitHub\\ASPnet_kontrolleri_ders\\ASPkontrolleri\\COKbasitHesapMakinesi.aspx.cs",
-              "RelativeDocumentMoniker": "ASPkontrolleri\\COKbasitHesapMakinesi.aspx.cs",
-              "ToolTip": "C:\\Users\\przsl\\OneDrive\\Documents\\GitHub\\ASPnet_kontrolleri_ders\\ASPkontrolleri\\COKbasitHesapMakinesi.aspx.cs",
-              "RelativeToolTip": "ASPkontrolleri\\COKbasitHesapMakinesi.aspx.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAYwBMAAAAUAAAAAAAAAA==",
+              "Title": "basitKullaniciGiris.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\przsl\\OneDrive\\Documents\\GitHub\\ASPnet_kontrolleri_ders\\ASPkontrolleri\\basitKullaniciGiris.aspx.cs",
+              "RelativeDocumentMoniker": "ASPkontrolleri\\basitKullaniciGiris.aspx.cs",
+              "ToolTip": "C:\\Users\\przsl\\OneDrive\\Documents\\GitHub\\ASPnet_kontrolleri_ders\\ASPkontrolleri\\basitKullaniciGiris.aspx.cs",
+              "RelativeToolTip": "ASPkontrolleri\\basitKullaniciGiris.aspx.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAqwDMAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T07:19:42.391Z",
+              "WhenOpened": "2025-09-15T12:38:51.69Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "COKbasitHesapMakinesi.aspx",
-              "DocumentMoniker": "C:\\Users\\przsl\\OneDrive\\Documents\\GitHub\\ASPnet_kontrolleri_ders\\ASPkontrolleri\\COKbasitHesapMakinesi.aspx",
-              "RelativeDocumentMoniker": "ASPkontrolleri\\COKbasitHesapMakinesi.aspx",
-              "ToolTip": "C:\\Users\\przsl\\OneDrive\\Documents\\GitHub\\ASPnet_kontrolleri_ders\\ASPkontrolleri\\COKbasitHesapMakinesi.aspx",
-              "RelativeToolTip": "ASPkontrolleri\\COKbasitHesapMakinesi.aspx",
+              "Title": "basitKullaniciGiris.aspx",
+              "DocumentMoniker": "C:\\Users\\przsl\\OneDrive\\Documents\\GitHub\\ASPnet_kontrolleri_ders\\ASPkontrolleri\\basitKullaniciGiris.aspx",
+              "RelativeDocumentMoniker": "ASPkontrolleri\\basitKullaniciGiris.aspx",
+              "ToolTip": "C:\\Users\\przsl\\OneDrive\\Documents\\GitHub\\ASPnet_kontrolleri_ders\\ASPkontrolleri\\basitKullaniciGiris.aspx",
+              "RelativeToolTip": "ASPkontrolleri\\basitKullaniciGiris.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-09-10T07:15:17.659Z",
+              "WhenOpened": "2025-09-11T08:28:34.168Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "textboxKullanimi.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\przsl\\OneDrive\\Documents\\GitHub\\ASPnet_kontrolleri_ders\\ASPkontrolleri\\textboxKullanimi.aspx.cs",
-              "RelativeDocumentMoniker": "ASPkontrolleri\\textboxKullanimi.aspx.cs",
-              "ToolTip": "C:\\Users\\przsl\\OneDrive\\Documents\\GitHub\\ASPnet_kontrolleri_ders\\ASPkontrolleri\\textboxKullanimi.aspx.cs",
-              "RelativeToolTip": "ASPkontrolleri\\textboxKullanimi.aspx.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T07:09:11.155Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "textboxKullanimi.aspx",
-              "DocumentMoniker": "C:\\Users\\przsl\\OneDrive\\Documents\\GitHub\\ASPnet_kontrolleri_ders\\ASPkontrolleri\\textboxKullanimi.aspx",
-              "RelativeDocumentMoniker": "ASPkontrolleri\\textboxKullanimi.aspx",
-              "ToolTip": "C:\\Users\\przsl\\OneDrive\\Documents\\GitHub\\ASPnet_kontrolleri_ders\\ASPkontrolleri\\textboxKullanimi.aspx",
-              "RelativeToolTip": "ASPkontrolleri\\textboxKullanimi.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-09-10T07:04:54.914Z"
             }
           ]
         }

@@ -67,6 +67,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="basitKullaniciGiris.aspx" />
     <Content Include="buttonKullanimi.aspx" />
     <Content Include="COKbasitHesapMakinesi.aspx" />
     <Content Include="labelKullanimi.aspx" />
@@ -74,6 +75,13 @@
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="basitKullaniciGiris.aspx.cs">
+      <DependentUpon>basitKullaniciGiris.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="basitKullaniciGiris.aspx.designer.cs">
+      <DependentUpon>basitKullaniciGiris.aspx</DependentUpon>
+    </Compile>
     <Compile Include="buttonKullanimi.aspx.cs">
       <DependentUpon>buttonKullanimi.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>

@@ -12,6 +12,9 @@
             border:1px solid silver;
             padding:20px;
         }
+        .uyariLabel{
+            color:darkred;
+        }
     </style>
 </head>
 <body>
@@ -39,6 +42,9 @@
             <br />
             <label>Sonuç: </label>
             <asp:Label ID="lb_sonuc" runat="server"></asp:Label>
+            <br />
+            <br />
+            <asp:Label ID="lb_uyari" runat="server" CssClass="uyariLabel"></asp:Label>
         </div>
     </form>
 </body>
